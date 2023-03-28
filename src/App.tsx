@@ -50,6 +50,7 @@ const App = () => {
                 removeTask={removeTask}
                 changeChekedTask={changeChekedTask}
                 addTask={addTask}
+                filter={filter}
             />
         </div>
     );
